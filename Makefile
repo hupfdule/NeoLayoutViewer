@@ -18,7 +18,7 @@ PREFIX = /usr/local
 APPNAME = NeoLayoutViewer
 
 GIT_COMMIT_VERSION=$(shell git log --oneline --max-count=1 | head --bytes=7)
-RELEASE_VERSION=1.2-SNAPSHOT
+RELEASE_VERSION=1.2
 ENV_FILE=.build_env
 
 # compiler options for a debug build

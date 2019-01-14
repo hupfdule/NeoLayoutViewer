@@ -1,5 +1,5 @@
-neo-layout-viewer (0.0-1) stable; urgency=medium
+neo-layout-viewer (1.2-1) stable; urgency=medium
 
   * Initial debian package
 
- -- Marco Herrn <marco@mherrn.de>  Tue, 18 Dec 2018 16:48:01 +0100
+ -- Marco Herrn <mherrn@thinkian>  Mon, 14 Jan 2019 16:18:04 +0100
