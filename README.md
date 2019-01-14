@@ -1,3 +1,17 @@
+NeoLayoutViewer - Patched
+========================================================================
+
+This a patched version of https://github.com/YggdrasiI/NeoLayoutViewer. It
+incoporates the Pull Request
+https://github.com/YggdrasiI/NeoLayoutViewer/pull/8 and provides the
+corresponding release assets under
+https://github.com/hupfdule/NeoLayoutViewer/releases.
+
+This repository is not meant as a long-living fork, but only to provide the
+binary assets until the above mentioned Pull Request is integrated
+upstream.
+
+
 Beschreibung
 ========================================================================
 
